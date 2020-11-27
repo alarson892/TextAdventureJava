@@ -6,4 +6,6 @@
 ##### Program will ask for a seed or generate a random one
 ##### Uses seed to generate:
 ###### Player stats
+See [player docs](./player.md).
 ###### Contents of each tile
+
