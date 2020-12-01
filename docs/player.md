@@ -1,6 +1,6 @@
 # Player
 
-This Doc desribes the attributes an actions a player has and can perform.
+This doc desribes the attributes and actions a player has and can perform.
 
 ## Attributes
 
