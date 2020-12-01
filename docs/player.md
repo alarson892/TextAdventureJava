@@ -26,3 +26,4 @@ These are the actions a player can perform.
 * Wear hat
 * Move [up,down,left,right]
 * Perform skill
+* Run away
