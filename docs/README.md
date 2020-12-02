@@ -8,6 +8,8 @@ It contains the random seed, a world, a player and everything else.
 
 * Also see [game docs](./game.md).
 
+## Game Commands:
+* Also see [command docs](./commands.md).
 
 ## Player:
 * Also see [player docs](./player.md).
