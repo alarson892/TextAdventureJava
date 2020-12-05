@@ -27,3 +27,4 @@ These are the actions a player can perform.
 * Move [up,down,left,right]
 * Perform skill
 * Run away
+* Drop item
